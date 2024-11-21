@@ -21,15 +21,15 @@ set background=dark
 ""
 
 "" black fg w/white bg
-hi Cursor          guifg=#000000    guibg=#EEEEEE    ctermfg=black    ctermbg=white    gui=NONE         cterm=NONE
-hi IncSearch       guifg=#000000    guibg=#EEEEEE    ctermfg=black    ctermbg=white    gui=ITALIC       cterm=NONE
-hi Search          guifg=#000000    guibg=#EEEEEE    ctermfg=black    ctermbg=white    gui=ITALIC       cterm=NONE
-hi Visual          guifg=#000000    guibg=#EEEEEE    ctermfg=black    ctermbg=white    gui=ITALIC       cterm=NONE
-hi VisualNOS       guifg=#000000    guibg=#EEEEEE    ctermfg=black    ctermbg=white    gui=ITALIC       cterm=NONE
+hi Cursor          guifg=#000000    guibg=#DDDDDD    ctermfg=black    ctermbg=white    gui=NONE         cterm=NONE
+hi IncSearch       guifg=#000000    guibg=#DDDDDD    ctermfg=black    ctermbg=white    gui=ITALIC       cterm=NONE
+hi Search          guifg=#000000    guibg=#DDDDDD    ctermfg=black    ctermbg=white    gui=ITALIC       cterm=NONE
+hi Visual          guifg=#000000    guibg=#DDDDDD    ctermfg=black    ctermbg=white    gui=ITALIC       cterm=NONE
+hi VisualNOS       guifg=#000000    guibg=#DDDDDD    ctermfg=black    ctermbg=white    gui=ITALIC       cterm=NONE
 
 "" grey fg w/white bg
-hi CursorColumn    guifg=#A0A0A0    guibg=#EEEEEE    ctermfg=grey     ctermbg=white    gui=NONE         cterm=NONE
-hi CursorLine      guifg=#A0A0A0    guibg=#EEEEEE    ctermfg=grey     ctermbg=white    gui=NONE         cterm=NONE
+hi CursorColumn    guifg=#A0A0A0    guibg=#DDDDDD    ctermfg=grey     ctermbg=white    gui=NONE         cterm=NONE
+hi CursorLine      guifg=#A0A0A0    guibg=#DDDDDD    ctermfg=grey     ctermbg=white    gui=NONE         cterm=NONE
 
 "" grey fg w/black bg
 
