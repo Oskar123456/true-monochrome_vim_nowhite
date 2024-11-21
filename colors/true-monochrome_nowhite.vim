@@ -45,6 +45,7 @@ hi Ignore          guifg=#A0A0A0    guibg=#000000    ctermfg=grey     ctermbg=bl
 hi Label           guifg=#A0A0A0    guibg=#000000    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
 hi LineNr          guifg=#5A5A5A    guibg=#000000    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi MatchParen      guifg=#DDDDDD    guibg=#000000    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
+hi MatchParen      guifg=#DDDDDD    guibg=#000000    ctermfg=grey     ctermbg=black    gui=UNDERLINE    cterm=UNDERLINE
 hi ModeMsg         guifg=#A0A0A0    guibg=#000000    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi MoreMsg         guifg=#A0A0A0    guibg=#000000    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi NonText         guifg=#A0A0A0    guibg=#000000    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
