@@ -13,7 +13,7 @@ if version > 580
 endif
 
 "" give it a name and set the background
-let colors_name="true-monochrome"
+let colors_name="true-monochrome_nowhite"
 set background=dark
 
 ""
