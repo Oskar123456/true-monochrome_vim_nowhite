@@ -20,6 +20,8 @@ set background=dark
 "" now, on to the good stuff!
 ""
 
+let s:const_color = '#262626'
+
 "" black fg w/white bg
 hi Cursor          guifg=#000000    guibg=#FFFFFF    ctermfg=black    ctermbg=white    gui=NONE         cterm=NONE
 hi IncSearch       guifg=#000000    guibg=#FFFFFF    ctermfg=black    ctermbg=white    gui=ITALIC       cterm=NONE
@@ -77,9 +79,9 @@ hi htmlTagN        guifg=#A0A0A0    guibg=#000000    ctermfg=grey     ctermbg=bl
 hi rubySymbol      guifg=#A0A0A0    guibg=#000000    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 
 "" white fg w/black bg
-hi Constant        guifg=#FFFFFF    guibg=#000000    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
-hi DiffAdd         guifg=#FFFFFF    guibg=#000000    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
-hi Number          guifg=#FFFFFF    guibg=#000000    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
-hi Pmenu           guifg=#FFFFFF    guibg=#000000    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
-hi String          guifg=#FFFFFF    guibg=#000000    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
+hi Constant        guifg=#FFFFFF    guibg=#000000    ctermfg=const_color    ctermbg=black    gui=NONE         cterm=NONE
+hi DiffAdd         guifg=#FFFFFF    guibg=#000000    ctermfg=const_color    ctermbg=black    gui=NONE         cterm=NONE
+hi Number          guifg=#FFFFFF    guibg=#000000    ctermfg=const_color    ctermbg=black    gui=NONE         cterm=NONE
+hi Pmenu           guifg=#FFFFFF    guibg=#000000    ctermfg=const_color    ctermbg=black    gui=BOLD         cterm=BOLD
+hi String          guifg=#FFFFFF    guibg=#000000    ctermfg=const_color    ctermbg=black    gui=NONE         cterm=NONE
 
