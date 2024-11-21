@@ -77,9 +77,9 @@ hi htmlTagN        guifg=#A0A0A0    guibg=#000000    ctermfg=grey     ctermbg=bl
 hi rubySymbol      guifg=#A0A0A0    guibg=#000000    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 
 "" white fg w/black bg
-hi Constant        guifg=#FFFFFF    guibg=#000000    ctermfg=#262626    ctermbg=black    gui=NONE         cterm=NONE
-hi DiffAdd         guifg=#FFFFFF    guibg=#000000    ctermfg=#262626    ctermbg=black    gui=NONE         cterm=NONE
-hi Number          guifg=#FFFFFF    guibg=#000000    ctermfg=#262626    ctermbg=black    gui=NONE         cterm=NONE
-hi Pmenu           guifg=#FFFFFF    guibg=#000000    ctermfg=#262626    ctermbg=black    gui=BOLD         cterm=BOLD
-hi String          guifg=#FFFFFF    guibg=#000000    ctermfg=#262626    ctermbg=black    gui=NONE         cterm=NONE
+hi Constant        guifg=#FFFFFF    guibg=#000000    ctermfg=#7    ctermbg=black    gui=NONE         cterm=NONE
+hi DiffAdd         guifg=#FFFFFF    guibg=#000000    ctermfg=#7    ctermbg=black    gui=NONE         cterm=NONE
+hi Number          guifg=#FFFFFF    guibg=#000000    ctermfg=#7    ctermbg=black    gui=NONE         cterm=NONE
+hi Pmenu           guifg=#FFFFFF    guibg=#000000    ctermfg=#7    ctermbg=black    gui=BOLD         cterm=BOLD
+hi String          guifg=#FFFFFF    guibg=#000000    ctermfg=#7    ctermbg=black    gui=NONE         cterm=NONE
 
